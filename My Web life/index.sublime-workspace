@@ -1,0 +1,321 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fle",
+				"flex-start\tjustify-content"
+			],
+			[
+				"flex",
+				"flex-end\tjustify-content"
+			],
+			[
+				"fl",
+				"flex-end\tjustify-content"
+			],
+			[
+				"mari",
+				"margin\tproperty"
+			],
+			[
+				"marg",
+				"margin-right\tproperty"
+			],
+			[
+				"spa",
+				"space-around\tjustify-content"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"fel",
+				"flex-start\tjustify-content"
+			],
+			[
+				"space",
+				"space-between\tjustify-content"
+			],
+			[
+				"spaci",
+				"letter-spacing\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"background",
+				"background-attachment\tproperty"
+			],
+			[
+				"bac",
+				"background-repeat\tproperty"
+			],
+			[
+				"ima",
+				"background-image\tproperty"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"ba",
+				"background-image\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"al",
+				"align-items\tproperty"
+			],
+			[
+				"backgro",
+				"background-color\tproperty"
+			],
+			[
+				"bacl",
+				"background-color\tproperty"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"list",
+				"list-style-type\tproperty"
+			],
+			[
+				"link",
+				"link-hidden"
+			],
+			[
+				"met",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"menu",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 263.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/bartosz/Pulpit/Dieta_Siłownia/index.html",
+		"/home/bartosz/Pulpit/Studia/Sieci_komputerowe/BSD/Server/Server.exe",
+		"/media/bartosz/0290963890963261/Users/Bartek/Roaming/Desktop/STUDIA/Development/Band/index.html",
+		"/media/bartosz/0290963890963261/Users/Bartek/Roaming/Desktop/STUDIA/Pracownia programowania/Projekt/alghoritms.go",
+		"/media/bartosz/0290963890963261/Users/Bartek/Roaming/Desktop/STUDIA/Pracownia programowania/Projekt/main.go",
+		"/media/bartosz/0290963890963261/Users/Bartek/Roaming/Desktop/STUDIA/Pracownia programowania/Projekt/calendarController.go",
+		"/media/bartosz/0290963890963261/Users/Bartek/Roaming/Desktop/STUDIA/Pracownia programowania/Projekt/models.go",
+		"/media/bartosz/0290963890963261/Users/Bartek/Roaming/Desktop/STUDIA/Pracownia programowania/Projekt/szt_visio.exe",
+		"/home/bartosz/Pulpit/Dieta_Siłownia/Wednesday.html",
+		"/home/bartosz/Pulpit/Dieta_Siłownia/Monday.html",
+		"/home/bartosz/Pulpit/Prace/HTML i CSS/Zawijane menu/index.html",
+		"/home/bartosz/Pulpit/Prace/HTML i CSS/Zawijane menu/static/style/style.css",
+		"/home/bartosz/Pulpit/Prace/HTML i CSS/Odwzorowanie strony/static/style/style.css",
+		"/home/bartosz/Pulpit/Prace/HTML i CSS/Odwzorowanie strony/index.html",
+		"/media/bartosz/0290963890963261/Users/Bartek/Roaming/Desktop/STUDIA/Development/Band/static/css/styl.css",
+		"/home/bartosz/Pulpit/Prace/C++/Przeliczanie wysokości/main.cpp",
+		"/home/bartosz/Pulpit/Prace/C++/Hello world.cpp",
+		"/home/bartosz/Pulpit/DJANGO 1/projekt_sklep/shop/static/css/base.css",
+		"/home/bartosz/PycharmProjects/s441430django/mysite/polls/static/polls/style.css",
+		"/home/bartosz/PycharmProjects/s441430django/mysite/polls/templates/polls/results.html",
+		"/home/bartosz/PycharmProjects/s441430django/mysite/polls/templates/polls/detail.html",
+		"/home/bartosz/PycharmProjects/s441430django/mysite/polls/templates/polls/index.html",
+		"/home/bartosz/Pulpit/Dieta_Siłownia/static/css/style.css",
+		"/home/bartosz/Pulpit/Studia/Technologie_internetowe/zad_4_Django/s441430django/polls/templates/polls/results.html",
+		"/home/bartosz/Pulpit/Studia/Technologie_internetowe/zad_4_Django/s441430django/polls/templates/polls/detail.html",
+		"/home/bartosz/Pulpit/Studia/Technologie_internetowe/zad_4_Django/s441430django/polls/templates/polls/index.html",
+		"/home/bartosz/Pulpit/Dieta_Siłownia/Friday.html",
+		"/home/bartosz/Pulpit/Dieta_Siłownia/motivation.html",
+		"/home/bartosz/Pulpit/Dieta_Siłownia/shake.html",
+		"/home/bartosz/Pulpit/index.html",
+		"/home/bartosz/Pulpit/styl.css",
+		"/home/bartosz/Pulpit/Dieta_Siłownia/friday.html",
+		"/home/bartosz/Pulpit/Dieta_Siłownia/thursday.html",
+		"/home/bartosz/Pulpit/Dieta_Siłownia/wednesday.html",
+		"/home/bartosz/Pulpit/Dieta_Siłownia/teusday.html",
+		"/home/bartosz/Pulpit/Dieta_Siłownia/monday.html",
+		"/home/bartosz/Pulpit/Dieta_Siłownia/supper.html",
+		"/home/bartosz/Pulpit/Dieta_Siłownia/tea.html",
+		"/home/bartosz/Pulpit/Dieta_Siłownia/dinner.html",
+		"/home/bartosz/Pulpit/Dieta_Siłownia/breakfast.html",
+		"/home/bartosz/Pulpit/Dieta_Siłownia/static/reference/motivation.html",
+		"/home/bartosz/Pulpit/Dieta_Siłownia/reference/motivation.html",
+		"/media/bartosz/0290963890963261/Users/Bartek/Roaming/Desktop/o sobie/index.html",
+		"/home/bartosz/Pulpit/Dieta_Siłownia/style/css/style.css",
+		"/home/bartosz/Pulpit/Studia/Pracownia_programowania/Testowanie_srodowiska/Workspace/src/main.go",
+		"/home/bartosz/go/rest-and-go/store/router.go",
+		"/home/bartosz/go/rest-and-go/main.go",
+		"/home/bartosz/go/rest-and-go/store/repository.go",
+		"/home/bartosz/go/rest-and-go/store/model.go",
+		"/home/bartosz/go/rest-and-go/store/controller.go",
+		"/home/bartosz/go/rest-and-go/dummyData.js",
+		"/home/bartosz/Pulpit/Prace/index.html",
+		"/home/bartosz/<html>"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 43.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 82.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Pulpit/My Web life/index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
