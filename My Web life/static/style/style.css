@@ -232,3 +232,10 @@ aside {
 	width: 100px;
 	text-align: center;
 }
+
+footer {
+	background-color: #DDD;
+	display: flex;
+	flex-direction: column;
+	align-content: center;
+}
